@@ -7,6 +7,7 @@ momo
 pasta
 mutton
 
-
+Beans
+Pizza
 
 thank you 
